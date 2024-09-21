@@ -5,4 +5,4 @@
 hellos = ("first", "second", "third")
 
 for n in hellos:
-    print(n + " Hello")
+    print(n + " Hello there")

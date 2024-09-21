@@ -6,3 +6,5 @@ hellos = ("first", "second", "third")
 
 for n in hellos:
     print(n + " Hello there")
+
+print("This is another hello!")
